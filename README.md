@@ -15,7 +15,14 @@ https://cad.onshape.com/documents/a97c7134ccd0741b3f998674/w/13b3333805ea5d17c64
 | 3d print/model | 1 | Snapmaker | $0.01 | $0.01 | https://cad.onshape.com/documents/a97c7134ccd0741b3f998674/w/13b3333805ea5d17c64ad727/e/1efaff581b8b39a1d64b4fe4 |
 | PCB | 1 | JLC | $13.89 | $13.89 | https://trade.jlcpcb.com/checkout/payMethod?systemType=order_pcb&calType=PAY&batchNum=W2026112710500528&preOfferRate=0&spm=Jlcpcb.Confirmorder.1001 |
 | Estimated total shipping | 1 | | | $7.03 | |
-images of the design ig:
+
+
+
+Images of the design ig:
+
+
+
+
 <img width="608" height="699" alt="Screenshot 2026-10-17 at 8 43 41 PM" src="https://github.com/user-attachments/assets/564ce1ee-5c62-4ca7-90f5-302f951317b7" />
 <img width="1920" height="1080" alt="Screenshot 2026-10-17 at 8 40 03 PM" src="https://github.com/user-attachments/assets/5462b0c8-dc20-4074-b5a0-577281a1a728" />
 <img width="1920" height="1080" alt="Screenshot 2026-10-17 at 8 39 49 PM" src="https://github.com/user-attachments/assets/8a98a7ee-822d-4574-9c0e-f17ad755b77d" />
