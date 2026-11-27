@@ -6,11 +6,11 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/cmv5n5l9a0jy801n00x5a6el9)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A nightlight the shape of a crystal
+> A nightlight the shape of a crystal. Got this idea from those IKEA nightlights    and wanted to try and make one.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 19h | 6 |
+| Week 2 | Tier 2 | 19h | 6 |
 
 ## Contents
 
